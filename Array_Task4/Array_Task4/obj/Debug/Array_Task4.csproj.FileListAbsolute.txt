@@ -1,0 +1,8 @@
+D:\C#\ДЗ2(массивы)\Array_Task4\Array_Task4\Array_Task4\bin\Debug\Array_Task4.exe.config
+D:\C#\ДЗ2(массивы)\Array_Task4\Array_Task4\Array_Task4\bin\Debug\Array_Task4.exe
+D:\C#\ДЗ2(массивы)\Array_Task4\Array_Task4\Array_Task4\bin\Debug\Array_Task4.pdb
+D:\C#\ДЗ2(массивы)\Array_Task4\Array_Task4\Array_Task4\obj\Debug\Array_Task4.csproj.AssemblyReference.cache
+D:\C#\ДЗ2(массивы)\Array_Task4\Array_Task4\Array_Task4\obj\Debug\Array_Task4.csproj.SuggestedBindingRedirects.cache
+D:\C#\ДЗ2(массивы)\Array_Task4\Array_Task4\Array_Task4\obj\Debug\Array_Task4.csproj.CoreCompileInputs.cache
+D:\C#\ДЗ2(массивы)\Array_Task4\Array_Task4\Array_Task4\obj\Debug\Array_Task4.exe
+D:\C#\ДЗ2(массивы)\Array_Task4\Array_Task4\Array_Task4\obj\Debug\Array_Task4.pdb
